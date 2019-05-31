@@ -1,0 +1,42 @@
+.gradient-bar {
+
+  width: 280px;
+  height: 50px;
+  border-radius: 1em;
+  background-image: linear-gradient(to bottom right, #da5e25, #d43773);
+  text-align: center;
+ }
+
+ .gradient-background-bar {
+
+  width: 280px;
+  height: 50px;
+  border-radius: 1em;
+  background-color: #ffffff;
+  border: 1px solid #f0c128;
+ }
+
+ .text-1 {
+
+  font-family: 'Poppins', sans-serif;
+  color: white;
+  font-size: 36px;
+  left: 50px; 
+ }
+
+ .wrapper {
+   position: relative;
+ }
+
+ .about-me {
+   font-size: 24px; 
+   margin-left: 40px;
+ }
+  
+body {
+  color: #000000;
+  font-family: 'Poppins', sans-serif;
+}
+
+
+
